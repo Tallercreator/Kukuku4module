@@ -17,7 +17,7 @@
   font-weight: 300;
   font-style: normal;
   src:
-      url('../fonts/Raleway-Regular.ttf') format('ttf'),
+      url('./fonts/Raleway-Regular.ttf') format('ttf'),
 }
 
 @font-face {
@@ -25,7 +25,7 @@
   font-weight: bold;
   font-style: normal;
   src:
-      url('../fonts/Unbounded-Bold.ttf') format('ttf'),
+      url('./fonts/Unbounded-Bold.ttf') format('ttf'),
 }
 
 
